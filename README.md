@@ -1,2 +1,2 @@
 # RSI_Stock_Algorithm
-Displays the 1 min , 5 min, day, and week rsi of a list of stocks
+Displays the 1 min , 5 min, day, and week rsi of a list of stocks. There are three RSI algorithmns in here that use different time frames to get the RSI. 1 week, 1 minute, and 5 minute. These algorithims only run when the market is open and if an error message pops up, it is not becuase the code is bugged, it is because data comms in at a certain time. If you get an error message, wait a couple minutes and try it again. All of the code works. To get an RSI program that uses day, change Resolution to "D"
